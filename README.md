@@ -53,6 +53,8 @@ Raw Data
 - Station Location Analysis
 - Service and Frequency Analysis
 
+![image alt](https://github.com/Sunitha1212/Chennai-Metro-Passenger-Operations-Analytics/blob/de2a957cb1e9a49e82aba033f7d0ed1ab43ea91e/Network%20%26%20Operations.png)
+
 ### 3. Ridership & Payment Analysis
 - Closed Loop Ridership
 - QR Ticket Ridership
