@@ -65,6 +65,9 @@ Raw Data
 - Payment Method Ranking
 - Monthly Ridership Growth
 
+![image alt](https://github.com/Sunitha1212/Chennai-Metro-Passenger-Operations-Analytics/blob/3d70eb9195c463420d20ff21b922b68aab5d3813/Ridership%20%26%20Payment%20Analysis.png)
+
+
 ## Key Power BI Concepts
 
 - Power Query Data Cleaning
