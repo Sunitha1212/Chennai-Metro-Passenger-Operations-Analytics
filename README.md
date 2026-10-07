@@ -42,6 +42,8 @@ Raw Data
 - Payment Method Analysis
 - Month Slicer
 
+  ![image alt](https://github.com/Sunitha1212/Chennai-Metro-Passenger-Operations-Analytics/blob/1424c5767fc56cf68312f5870a1eba496d64ec51/Executive%20Overview.png)
+
 ### 2. Network & Operations
 - Station Scheduled Activity
 - Total Stations
